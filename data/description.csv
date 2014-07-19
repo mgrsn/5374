@@ -1,7 +1,7 @@
 label,sublabel,description,styles,bgcolor
 燃えるごみ,,,img/moyasanai02.svg,#ea3b13
-容器包装プラスチック,,,img/bin02.svg,#ff9f37
+容器包装プラスチック,,,img/bin02.svg,#ff6e00
 容器包装紙,,,img/moyasu02.svg,#81d12e
-ペットボトル,,,img/bin02.svg,#91dde7
+ペットボトル,,,img/bin02.svg,#00b7c0
 古紙類・紙パック／不燃ごみ／ビン・カン,,,img/shigen02.svg,#2dc7aa
 粗大ごみ／有害ごみ,,,img/bin02.svg,#685ecf
