@@ -1,8 +1,8 @@
 label,sublabel,description,styles,bgcolor
-燃えるごみ,,,img/moyasanai02.svg,#733b96
-容器包装プラスチック,,,img/shigen02.svg,#77ae1f
-容器包装紙,,,img/moyasu02.svg,#ea3b13
-ペットボトル,,,img/bin02.svg,#2dc7aa
-資源ごみ,,,img/bin02.svg,#2dc7aa
-不燃ごみ,,,img/bin02.svg,#2dc7aa
-粗大ごみ,,,img/bin02.svg,#2dc7aa
+燃えるごみ,,,img/moyasanai02.svg,#ea3b13
+容器包装プラスチック,,,img/shigen02.svg,#ff8b53
+容器包装紙,,,img/moyasu02.svg,#81d12e
+ペットボトル,,,img/bin02.svg,#91dde7
+資源ごみ,,,img/bin02.svg,#77ae1f
+不燃ごみ,,,img/bin02.svg,#685ecf
+粗大ごみ,,,img/bin02.svg,#ba5ed5
