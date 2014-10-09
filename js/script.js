@@ -166,7 +166,7 @@ var TrashModel = function(_lable, _cell, remarks) {
               ((7 + getDayIndex(day_mix[j].charAt(0)) - date.getDay()) % 7) + week * 7 * 24 * 60 * 60 * 1000
             );
             //年末年始のずらしの対応
-            //休止期間日程をずらす
+            //休止期間一週間日程をずらす
             if (areaObj.isBlankDay(d)) {
               if (WeekShift) {
                 isShift = true;
@@ -175,7 +175,7 @@ var TrashModel = function(_lable, _cell, remarks) {
               }
             }
             if (isShift) {
-              d.setTime(d.getTime() + 5 * 24 * 60 * 60 * 1000);
+              d.setTime(d.getTime() + 7 * 24 * 60 * 60 * 1000);
             }
             //同じ月の時のみ処理したい
             if (d.getMonth() != (month - 1) % 12) {
