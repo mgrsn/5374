@@ -175,7 +175,7 @@ var TrashModel = function(_lable, _cell, remarks) {
               }
             }
             if (isShift) {
-              d.setTime(d.getTime() + 7 * 24 * 60 * 60 * 1000);
+              d.setTime(d.getTime() + 10 * 24 * 60 * 60 * 1000);
             }
             //同じ月の時のみ処理したい
             if (d.getMonth() != (month - 1) % 12) {
